@@ -1,10 +1,14 @@
-/**
+/** 
  * 
  */
 package org.jud.learnjava.integration;
 
 /**
- * @author Janak
+ * This class is for testing purpose and includes several methods.
+ * 
+ * @author JUD779
+ * 
+ * @version %I% %G%
  *
  */
 public class HelloWorld {
